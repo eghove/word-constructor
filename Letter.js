@@ -22,7 +22,7 @@ let Letter = function (letter, guess) {
     }
 }
 
-// let guess1 = new Letter ('H', 'L');
+// let guess1 = new Letter ('H');
 // var test=guess1.guessing();
 // console.log(guess1.actualLetter + " " + guess1.attempt);
 // console.log(test);
